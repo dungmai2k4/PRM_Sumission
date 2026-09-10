@@ -1,0 +1,21 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# OS
+.DS_Store
+Thumbs.db
